@@ -144,7 +144,11 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages/
+     - 404.md               # custom 404 page
+     - about.md             # about page
+     - contact.md 
+  - _posts/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

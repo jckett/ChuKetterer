@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "hello"
 title_separator          : "-"
-subtitle                 : # ""
+subtitle                 : " "
 name                     : &name "Joi Chu-Ketterer" # &name is a YAML anchor which can be *referenced later
 description              : &description "TESTINg"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

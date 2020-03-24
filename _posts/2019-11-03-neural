@@ -1,0 +1,13 @@
+---
+title: "Image and Text Classifier"
+date: 2019-11-03
+tags: 
+ - neural networks
+ - python
+ - json
+header:
+  image: "/images/wibs.png"
+excerpt: "Uses neural networks to classify text and images."
+---
+
+Humans are relatively good at understanding which texts are related to each other and which photos possess similar qualities. But how do computers figure it out? Find out [here](https://github.com/jckett/Movie-Recommendation) with the source code and data files.

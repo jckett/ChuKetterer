@@ -1,0 +1,13 @@
+---
+title: "Academic Success Indicators"
+date: 2019-08-06
+tags: 
+ - python
+ - EDA
+header:
+  image: "/images/wibs.png"
+excerpt: "Using EDA methods to understand the correlation between predictors and a student's academic success."
+---
+
+Everyone wants to be good at school, but some students just seem have an advantage over others. What do they have that other students don't? Find out with the exploratory data analysis project. The code and data files can be found [here](https://github.com/jckett/Academic-Success-Case-Study)
+

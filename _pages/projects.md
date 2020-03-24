@@ -2,7 +2,7 @@
 layout: archive
 permalink: /projects/
 title: "My Data Science Projects"
-#author_profile: true
+author_profile: false
 header:
   image: "/images/ds2.jpg"
 ---

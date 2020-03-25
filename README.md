@@ -1,23 +1,16 @@
-# [Joi Chu-Ketterer Personal Portfolio](https://jckett.github.io/blah/)
+# [Joi Chu-Ketterer Personal Portfolio](https://jckett.github.io/portfolio/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 
-Personal website created using [Minimal Mistakes](https://jekyllthemes.io/theme/minimal-mistakes). 
+Personal website created using Jekyll [Minimal Mistakes](https://jekyllthemes.io/theme/minimal-mistakes) theme. Additional resource can be accessed [here](https://mmistakes.github.io/minimal-mistakes/) 
 
 **Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll encounter `Unknown tag 'include_cached'` errors at build.
 
-[![Minimal Mistakes live preview][2]][1]
-
-[1]: https://mmistakes.github.io/minimal-mistakes/
-[2]: screenshot.png (live preview)
-
-![layout examples](screenshot-layouts.png)
-
-## Demo pages
+## Sample posts
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
+| [Weather Forecast][header-image-post] | This Jupyter Notebook script extracts data from a weather API to create a weater report.|
 | [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
 | [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
 | [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
@@ -25,9 +18,7 @@ Personal website created using [Minimal Mistakes](https://jekyllthemes.io/theme/
 | [Categories Archive][categories-archive] | Posts grouped by category. |
 | [Tags Archive][tags-archive] | Posts grouped by tag. |
 
-Additional sample posts are available under [posts archive][year-archive] on the demo site. Source files for these (and the entire demo site) can be found in [`/docs`](docs).
-
-[header-image-post]: https://mmistakes.github.io/minimal-mistakes/layout-header-image-text-readability/
+[weather-post]: https://jckett.github.io/portfolio/weather/
 [gallery-post]: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 [html-tags-post]: https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/
 [syntax-post]: https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/

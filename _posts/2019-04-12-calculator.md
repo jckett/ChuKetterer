@@ -1,6 +1,7 @@
 ---
 title: "Calculator"
 date: 2019-04-12
+author_profile: false
 tags: 
  - user input
  - python

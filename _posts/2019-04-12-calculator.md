@@ -5,8 +5,6 @@ author_profile: false
 tags: 
  - user input
  - python
-header:
-  image: "/images/wibs.png"
 excerpt: "Calculator to solve all your simple math."
 ---
 

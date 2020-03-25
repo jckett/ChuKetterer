@@ -10,7 +10,7 @@ Personal website created using Jekyll [Minimal Mistakes](https://jekyllthemes.io
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Weather Forecast][weather-post] | Project page.|
+| [Project][weather-post] | Sample project page.|
 | [About Me][about-post] | About Me page. |
 | [Post Tags][tag-post] | Page organizing posts by relevant tags.  |
 | [Resources][resource-post] | Page with my favorite resources. |

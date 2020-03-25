@@ -10,22 +10,15 @@ Personal website created using Jekyll [Minimal Mistakes](https://jekyllthemes.io
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Weather Forecast][header-image-post] | This Jupyter Notebook script extracts data from a weather API to create a weater report.|
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+| [Weather Forecast][weather-post] | Project page.|
+| [About Me][about-post] | About Me page. |
+| [Post Tags][tag-post] | Page organizing posts by relevant tags.  |
+| [Resources][resource-post] | Page with my favorite resources. |
 
 [weather-post]: https://jckett.github.io/portfolio/weather/
-[gallery-post]: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
-[html-tags-post]: https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/
-[syntax-post]: https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/
-[sample-collection]: https://mmistakes.github.io/minimal-mistakes/recipes/chocolate-chip-cookies/
-[categories-archive]: https://mmistakes.github.io/minimal-mistakes/categories/
-[tags-archive]: https://mmistakes.github.io/minimal-mistakes/tags/
-[year-archive]: https://mmistakes.github.io/minimal-mistakes/year-archive/
+[about-post]: https://jckett.github.io/portfolio/about/
+[tag-post]: https://jckett.github.io/portfolio/tags/
+[resource-post]: https://jckett.github.io/portfolio/resources/
 
 ## Usage
 

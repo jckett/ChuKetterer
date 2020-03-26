@@ -14,7 +14,7 @@ title                    : "Portfolio"
 title_separator          : "-"
 subtitle                 : "Chemist. Data Scientist."
 name                     : &name "Joi Chu-Ketterer" # &name is a YAML anchor which can be *referenced later
-description              : "TESTINg"
+description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #""
@@ -125,7 +125,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jckett/"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/lucindajoichuketterer/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"

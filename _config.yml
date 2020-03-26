@@ -100,7 +100,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/lucindajoichuketterer/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

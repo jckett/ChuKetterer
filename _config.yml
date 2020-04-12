@@ -3,17 +3,18 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-
+# Build settings
+markdown: kramdown
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Portfolio"
-title_separator          : "-"
-subtitle                 : "Chemist. Data Scientist."
-name                     : &name "Joi Chu-Ketterer" # &name is a YAML anchor which can be *referenced later
+title_separator          : #"-"
+subtitle                 : #"Chemist. Data Scientist."
+name                     : "Joi Chu-Ketterer" # &name is a YAML anchor which can be *referenced later
 description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -175,9 +176,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+plugins: 
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Conversion
-markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"

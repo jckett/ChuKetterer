@@ -5,6 +5,7 @@ author_profile: false
 header:
   image: "/images/teal_bar.png"
 ---
+HEY I CHANGED
 
 Data Science is a constantly changing field, and so it is important to stay current with projects, methods, and conversations happening everyday! Here is a list of my favorite resources of all sorts. 
 

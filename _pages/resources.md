@@ -22,6 +22,7 @@ Data Science is a constantly changing field, and so it is important to stay curr
 ⋅⋅* [Species in Pieces](http://species-in-pieces.com/#)⋅⋅
 ⋅⋅* [Every Noise](http://everynoise.com/engenremap.html#otherthings)⋅⋅
 ⋅⋅* [Seaborn Color Palettes](https://python-graph-gallery.com/100-calling-a-color-with-seaborn/)⋅⋅
+⋅⋅* [GitHub Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)⋅⋅
 
 ### Youtube Channels
 ⋅⋅* [Socratica](https://www.youtube.com/user/SocraticaStudios)⋅⋅

@@ -15,7 +15,7 @@ Data Science is a constantly changing field, and so it is important to stay curr
 • [Medium](https://medium.com/)\
 • [Towards Data Science](https://towardsdatascience.com/?source=post_page-----70d476bfe775----------------------)\
 • [Data Science for Social Good](http://www.dssgfellowship.org//blog/)\
-• [Revolutions](https://blog.revolutionanalytics.com/)\
+• [Revolutions](https://blog.revolutionanalytics.com/)
 
 ##### Posts
 • [Seeing Theory](https://seeing-theory.brown.edu/)\

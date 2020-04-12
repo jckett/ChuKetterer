@@ -13,9 +13,9 @@ Data Science is a constantly changing field, and so it is important to stay curr
 ### Blogs
 ##### Sites
 
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:joichuketterer@gmail.com"
+- label: "Email"
+  icon: "fas fa-fw fa-envelope-square"
+  url: "mailto:joichuketterer@gmail.com"
       
 • [Medium](https://medium.com/){text-decoration: none} 
 • [Towards Data Science](https://towardsdatascience.com/?source=post_page-----70d476bfe775----------------------)  

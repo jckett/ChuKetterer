@@ -1,9 +1,9 @@
 ---
-title: "About"
-permalink: /about/
+title: "Resources"
+permalink: /resources/
 author_profile: false
 header:
   image: "/images/teal_bar.png"
 ---
 
-Blurb
+trying this again

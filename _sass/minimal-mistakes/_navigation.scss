@@ -80,7 +80,7 @@
       text-align: center;
       text-decoration: none;
       color: $muted-text-color;
-     border: #(1px solid mix(#000, $border-color, 25%));
+      border: transparent;
       border-radius:  10px;
 
       &:hover {
@@ -129,7 +129,7 @@
     text-align: center;
     text-decoration: none;
     color: $muted-text-color;
-    border: #(1px solid mix(#000, $border-color, 25%));
+    border: transparent;
     border-radius: $border-radius;
 
     &:hover {
@@ -203,7 +203,7 @@
     -ms-flex-item-align: center;
     align-self: center;
     height: $nav-toggle-height;
-    border: 0;
+    border: transparent;
     outline: none;
     background-color: transparent;
     cursor: pointer;
@@ -258,7 +258,7 @@
     right: 0;
     margin-top: 15px;
     padding: 5px;
-    border: 1px solid $border-color;
+    border: transparent;
     border-radius: $border-radius;
     background: $background-color;
     -webkit-box-shadow: 0 2px 4px 0 rgba(#000, 0.16),

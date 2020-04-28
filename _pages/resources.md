@@ -6,8 +6,6 @@ header:
   image: "/images/teal_bar.png"
 ---
 
-TRYING SOMETHING
-
 Data Science is a constantly changing field, and so it is important to stay current with projects, methods, and conversations happening everyday! Here is a list of my favorite resources of all sorts. 
 
 ### Blogs
@@ -17,7 +15,7 @@ Data Science is a constantly changing field, and so it is important to stay curr
   icon: "fas fa-fw fa-envelope-square"
   url: "mailto:joichuketterer@gmail.com"
       
-• [Medium](https://medium.com/){text-decoration: none} 
+• [Medium](https://medium.com/)  
 • [Towards Data Science](https://towardsdatascience.com/?source=post_page-----70d476bfe775----------------------)  
 • [Data Science for Social Good](http://www.dssgfellowship.org//blog/)  
 • [Revolutions](https://blog.revolutionanalytics.com/)

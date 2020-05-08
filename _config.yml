@@ -2,7 +2,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : #""
 email                    : joichuketterer@gmail.com
 url                    : "https://jckett.github.io/portfolio/"
 repository                    : "https://github.com/jckett/portfolio"
@@ -88,10 +88,10 @@ author:
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Portfolio"
+title                    : "Portfolio"
 title_separator          : #"-"
-subtitle                 : #"Chemist. Data Scientist."
-name                     : "Joi Chu-Ketterer" # &name is a YAML anchor which can be *referenced later
+subtitle                 : "Chemist. Data Scientist."
+name                     : #"Joi Chu-Ketterer" # &name is a YAML anchor which can be *referenced later
 description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

@@ -4,7 +4,7 @@ date: 2019-08-06
 author_profile: false
 tags: 
  - R
- - Modeling
+ - modeling
 excerpt: "Understanding contraceptive use around the world."
 ---
 

@@ -7,9 +7,9 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Resources"
-    url: /resources/
+    #url: /resources/
   - title: "Tags"
-    url: /tags/
+    #url: /tags/
   - title: "Resume"
     url: /images/resume.pdf
   # - title: "About"

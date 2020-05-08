@@ -1,0 +1,12 @@
+---
+title: "Housing Estimator"
+date: 2019-07-08
+author_profile: false
+tags: 
+ - R
+ - Modeling
+excerpt: "How much would your house cost?"
+---
+
+This project looks at understanding how square footage and basic home amenities (number of bathrooms) could affect the sale price of a home. The code can be found [here](https://github.com/jckett/Square_Footage)
+

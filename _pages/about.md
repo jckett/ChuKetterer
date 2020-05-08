@@ -2,12 +2,11 @@
 title: "About"
 permalink: /about/
 author_profile: true
-# header:
 ---
 
-Hi, and welcome to my portfolio! I have chosen to share some of my recent coursework. As a current student working towards my master's degree in Data Science from Bellevue University, I am working on several different types of projects. My projects range from writing code, to writing proposals, to creating visualizations. I also hold double bachelor's degrees in Chemistry and Mathematics. 
+# About Me
 
-Have questions for me? Feel free to reach out to me by   
-• [Email](mailto:joichuketterer@gmail.com)  
-• [Twitter](https://twitter.com/jckett)  
-• [LinkedIn](https://www.linkedin.com/in/lucindajoichuketterer/)
+As a student working towards my M.S. in Data Science from Bellevue University, with a background working in environmental sciences, I am currently looking for the next challenge. I have experience working in Python, R, and SQL. I have highlighted some of my coursework here in this portfolio, but feel free to reach out with any specific questions you may have. 
+
+I have three years experience working as an environmental chemist primarily with GC/MS and internship experience as a water chemist. I would love to work on projects that combines my chemical background with my data science skills. Additional industries of interest include consumer insights and entertainment. 
+

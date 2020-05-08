@@ -1,0 +1,12 @@
+---
+title: "Happiness Indicator"
+date: 2019-06-28
+author_profile: false
+tags: 
+ - user input
+ - python
+excerpt: "Should you watch less TV?"
+---
+
+People constantly debate how much TV is too much, and if people should be reading more instead. This project aims to understand how the time spent on either activity actually impacts one's happiness. The code can be found [here](https://github.com/jckett/Happiness_Indicator)
+

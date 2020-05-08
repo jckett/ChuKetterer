@@ -88,7 +88,7 @@ author:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : #"Portfolio"
 title_separator          : #"-"
 subtitle                 : #"Chemist. Data Scientist."
 name                     : "Joi Chu-Ketterer" # &name is a YAML anchor which can be *referenced later

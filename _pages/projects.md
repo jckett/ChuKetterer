@@ -3,8 +3,7 @@ layout: archive
 permalink: /projects/
 title: "My Data Science Projects"
 author_profile: false
-header:
-  image: "/images/teal_bar.png"
+# header:
 ---
 
 

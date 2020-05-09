@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
-    url: /project_archive/
+  #- title: "Projects"
+  #  url: /project_archive/
   - title: "About"
     url: /about/
   # - title: "Resources"
@@ -20,31 +20,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-
-# sidebar for portfolio
-portfolio:
-  - title: "Projects"
-    children:
-      - title: "Calculator"
-        url: /portfolio/calculator/
-     # - title: "NetComp: Python Network Comparison"
-     #   url: /portfolio/netcomp/
-     # - title: "Automatic Genre Classification"
-     #   url: /portfolio/genre_cls/
-
- # - title: "Professional"
- #   children:
-  #    - title: "DeskAI"
-  #      url: /portfolio/deskai
-  #    - title: "Smart Climate Index"
-  #      url: /portfolio/sclm
-
-  #- title: "Research"
-  #  children:
-  #    - title: "Dynamic Anomaly Detection"
-  #      url: /portfolio/networks/
-  #    - title: "Statistics of Entanglement"
-  #      url: /portfolio/qm_stats/
-  #    - title: "Magnetic Waves and Noise"
-  #      url: /portfolio/waves/

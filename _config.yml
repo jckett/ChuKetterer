@@ -165,7 +165,6 @@ analytics:
 
 # Site Footer
 footer:
-  height: 50px;
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

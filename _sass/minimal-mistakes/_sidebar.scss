@@ -309,13 +309,20 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    // this sets it up for zoom animation
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 
     &:hover {
       // these are the settings for when you hover over the author profile links
       text-decoration: underline;
       color: #11999e;
-      *zoom: 1;
-      
+      // this initiates the zoom hover
+      -webkit-transform: scale(1.05);
+      -moz-transform: scale(1.05);
+      -ms-transform: scale(1.05);
+      -o-transform: scale(1.05);
+      transform: scale(1.05);  
     }
   }
 }

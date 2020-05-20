@@ -20,9 +20,9 @@
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     //opacity: ==> this changes the opacity of the whole side bar element where the author profile sits
-    opacity: 1; 
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
+    //opacity: 1; 
+    //-webkit-transition: opacity 0.2s ease-in-out;
+    //transition: opacity 0.2s ease-in-out;
 
     // this is the opacity when you are hovering over this element
     &:hover {
@@ -311,7 +311,8 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      text-color: #11999e;
     }
   }
 }

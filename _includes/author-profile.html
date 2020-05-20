@@ -1,3 +1,9 @@
+.bio-photo {
+  border-radius: none;
+  display: block;
+  width: 80px;
+  height: auto;
+
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 

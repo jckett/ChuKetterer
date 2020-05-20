@@ -19,10 +19,12 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
+    //opacity: ==> this changes the opacity of the whole side bar element where the author profile sits
+    opacity: 1; 
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
+    // this is the opacity when you are hovering over this element
     &:hover {
       opacity: 1;
     }
@@ -131,12 +133,10 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
+      // 0px if you want padding between the border and the image itself
       padding: none;
+      // 1px solid #FFFFFF if you want a border color
       border: none;
-      
-     &:hover {
-     opacity: 0%;
-     }
     }
   }
 }

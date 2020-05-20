@@ -20,7 +20,7 @@
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     //opacity: ==> this changes the opacity of the whole side bar element where the author profile sits
-    //opacity: 1; 
+    opacity: 1; 
     //-webkit-transition: opacity 0.2s ease-in-out;
     //transition: opacity 0.2s ease-in-out;
 

@@ -311,8 +311,9 @@
     text-decoration: none;
 
     &:hover {
+      // these are the settings for when you hover over the author profile links
       text-decoration: none;
-      text-color: #11999e;
+      color: #11999e;
     }
   }
 }

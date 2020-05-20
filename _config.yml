@@ -66,22 +66,22 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa fa-fw fa-envelope-square"
       url: "mailto:joichuketterer@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/lucindajoichuketterer/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-fw fa-github"
       url: "https://github.com/jckett/"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa fa-fw fa-twitter-square"
       url: "https://twitter.com/jckett"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fa fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 

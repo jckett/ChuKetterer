@@ -176,7 +176,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jckett/"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fa fa-linkedin-square" style="font-size:24px"
       url: "https://www.linkedin.com/in/lucindajoichuketterer/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

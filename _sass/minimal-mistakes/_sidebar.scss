@@ -146,6 +146,7 @@
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
+  margin-left: 10px;
   line-height: 1;
 
   @include breakpoint($large) {
@@ -235,7 +236,7 @@
   position: absolute;
   right: 0;
   margin-top: 15px;
-  padding-left: 10px;
+  padding: 5px;
   color: inherit;
   list-style-type: none;
   border: 1px solid $border-color;

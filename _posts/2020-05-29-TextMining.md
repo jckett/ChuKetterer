@@ -18,5 +18,26 @@ header:
       url: "https://github.com/jckett/TextMining"
 ---
 
-Experiencing text through visualizations can be helpful to grasp the main themes of any story, or act as supplement resources. To see how text mining visualizations can achieve just that, you can find the code [here](https://github.com/jckett/TextMining/tree/master)
+# Text Mining Visualizations of *The Little Mermaid* by Hans Christian Andersen
+
+Experiencing text through visualizations can be helpful to grasp the main themes of any story, or act as supplement resources. 
+
+# The Date
+
+This project uses a PDF of the original short story *The Little Mermaid*, which was made public through Global Grey Publishing. 
+
+## Technologies
+
+Completed in R, the following packages are used
+ - pdftools
+ - tm
+ - stringr
+ - quapRegex
+ - dplyr
+ - tidytext
+ - tidyverse
+ 
+# Launch
+
+The data extraction and a few visualizations were created in R, with additional visualizations created in Tableau. To start the project, using the RMarkdown file and the tlm.pdf file. All necessary files for Tableau will be generated through the R code.  
 

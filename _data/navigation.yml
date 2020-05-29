@@ -8,6 +8,8 @@ main:
     url: /about/
   # - title: "Resources"
     #url: /resources/
+  - title: Contact Me
+    url: /contact/
   - title: "Resume"
     url: /images/resume.pdf
   - title: "Tags"

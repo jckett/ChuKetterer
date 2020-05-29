@@ -11,7 +11,6 @@ tags:
 excerpt: "How do you visualize text?"
 header:
   overlay_image: "/images/reading.jpg"
-  overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
   teaser: "/images/reading_small.jpg"
   actions:
     - label: "Go to GitHub Repository"

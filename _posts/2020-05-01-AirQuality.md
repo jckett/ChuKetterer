@@ -8,7 +8,7 @@ tags:
 excerpt: "Social Distancing may be the solution for lower air pollution."
 header:
   overlay_image: "/images/air.jpg"
-  overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
+  #overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
   teaser: "/images/air.jpg"
   actions:
     - label: "Go to GitHub Repository"

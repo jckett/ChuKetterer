@@ -11,5 +11,5 @@ tags:
 excerpt: "How do you visualize text?"
 ---
 
-Experiecing text through visualizations can be helpful to grasp the main themes of any story, or act as supplement resources. To see how text mining visualizations can achieve just that, you can find the code [here](https://github.com/jckett/TextMining/tree/master)
+Experiencing text through visualizations can be helpful to grasp the main themes of any story, or act as supplement resources. To see how text mining visualizations can achieve just that, you can find the code [here](https://github.com/jckett/TextMining/tree/master)
 

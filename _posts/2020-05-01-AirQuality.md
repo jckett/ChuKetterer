@@ -7,6 +7,7 @@ tags:
  - times series
  - modeling
  - forecasting
+ - visualizations
 excerpt: "Social Distancing may be the solution for lower air pollution."
 header:
   overlay_image: "/images/air.jpg"

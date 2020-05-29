@@ -4,5 +4,5 @@ permalink: /testing/
 author_profile: true
 ---
 
-/images/resume.pdf
+![testing](/images/resume.pdf "Resume")
 

@@ -1,10 +1,10 @@
 # main links
 main:
-  - #title: "Home"
+  #- title: "Home"
     #url: /
   - title: "Projects"
     url: /tags/
-  - #title: "Projects"
+  #- title: "Projects"
     #url: /projects/
   - title: "About"
     url: /about/
@@ -14,8 +14,8 @@ main:
     url: /contact/
   - title: "Resume"
     url: /images/resume.pdf
-  - title: "Projects"
-    url: /tags/
+  #- title: "Projects"
+    #url: /tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

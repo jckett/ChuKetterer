@@ -88,11 +88,11 @@ author:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joi Chu-Ketterer"
+title                    : #"Joi Chu-Ketterer"
 title_separator          : #"-"
-subtitle                 : "Chemist. Data Scientist."
-name                     : #"Joi Chu-Ketterer" # &name is a YAML anchor which can be *referenced later
-description              : #
+subtitle                 : "Home"
+name                     : "Joi Chu-Ketterer" # &name is a YAML anchor which can be *referenced later
+description              : "Chemist. Data Scientist."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #""

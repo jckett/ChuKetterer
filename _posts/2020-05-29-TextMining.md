@@ -8,6 +8,7 @@ tags:
  - text mining
  - visualizations
  - text analysis
+ - sentiment analysis
 excerpt: "How do you visualize text?"
 header:
   overlay_image: "/images/reading.jpg"

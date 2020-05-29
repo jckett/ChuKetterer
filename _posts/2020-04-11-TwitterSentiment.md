@@ -7,6 +7,7 @@ tags:
  - text analysis
  - sentiment analysis
  - visualizations
+ - API
 excerpt: "What is the public saying?"
 header:
   overlay_image: "/images/social.jpg"

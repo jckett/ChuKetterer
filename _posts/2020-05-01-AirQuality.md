@@ -5,6 +5,8 @@ author_profile: false
 tags: 
  - R
  - times series
+ - modeling
+ - forecasting
 excerpt: "Social Distancing may be the solution for lower air pollution."
 header:
   overlay_image: "/images/air.jpg"

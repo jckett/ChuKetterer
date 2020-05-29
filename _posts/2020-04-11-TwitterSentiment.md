@@ -5,6 +5,8 @@ author_profile: false
 tags: 
  - python
  - text analysis
+ - sentiment analysis
+ - visualizations
 excerpt: "What is the public saying?"
 header:
   overlay_image: "/images/social.jpg"

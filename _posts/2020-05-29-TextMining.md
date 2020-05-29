@@ -7,6 +7,7 @@ tags:
  - tableau
  - text mining
  - visualizations
+ - text analysis
 excerpt: "How do you visualize text?"
 ---
 

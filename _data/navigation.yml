@@ -3,7 +3,9 @@ main:
   - #title: "Home"
     #url: /
   - title: "Projects"
-    url: /projects/
+    url: /tags/
+  - #title: "Projects"
+    #url: /projects/
   - title: "About"
     url: /about/
   # - title: "Resources"
@@ -12,7 +14,7 @@ main:
     url: /contact/
   - title: "Resume"
     url: /images/resume.pdf
-  - title: "Tags"
+  - title: "Projects"
     url: /tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

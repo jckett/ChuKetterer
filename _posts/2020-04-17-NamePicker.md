@@ -4,7 +4,6 @@ date: 2019-04-17
 author_profile: false
 tags: 
  - user input
- - generator
 excerpt: "A useful tool for when you want an element of surprise."
 header:
   overlay_image: "/images/presents.jpg"

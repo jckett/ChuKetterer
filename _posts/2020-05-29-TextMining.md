@@ -22,7 +22,7 @@ header:
 
 Experiencing text through visualizations can be helpful to grasp the main themes of any story, or act as supplement resources. 
 
-# The Date
+# The Data
 
 This project uses a PDF of the original short story *The Little Mermaid*, which was made public through Global Grey Publishing. 
 
